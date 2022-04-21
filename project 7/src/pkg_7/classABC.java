@@ -27,7 +27,7 @@ public class classABC
   public static void main(String[] args) 
   {
 	classABC obj=new classABC(6,5,4);
-	System.out.println("changes has done******");
+	System.out.println("changes has done********");
 	
 }
 }
